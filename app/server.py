@@ -9,7 +9,7 @@ from starlette.middleware.cors import CORSMiddleware
 from starlette.responses import HTMLResponse, JSONResponse
 from starlette.staticfiles import StaticFiles
 
-export_file_url = 'https://drive.google.com/uc?export=download&id=ttps://drive.google.com/open?id=1A7h1mXrPMQlus41XFyXPj8oD_Qkt3N7'
+export_file_url = 'https://drive.google.com/uc?export=download&id=1A7h1mXrPMQlus41XFyXPj8oD_Qkt3N7T'
 export_file_name = 'final_model.pkl'
 
 classes = ['bull_flag', 'bear_flag']
